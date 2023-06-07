@@ -1,4 +1,4 @@
-# Locx-Unicorn
+# nextjs-template-css-in-js
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -14,7 +14,7 @@
 Clone the project:
 
 ```
-git clone https://github.com/Locx-Dev-s/Locx-Unicorn.git
+git clone https://github.com/MarcosSantosDev/nextjs-playground-css-in-js.git
 ```
 
 Install the dependencies:
