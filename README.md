@@ -79,4 +79,4 @@ npm run test:watch
 
 - [Git](./docs/git.md)
 - [Styles](./docs/styles.md)
-- [Commintlint](./docs/commintlint.md)
+- [Commitlint](./docs/commitlint.md)
